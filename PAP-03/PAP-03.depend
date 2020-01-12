@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521543806 source:e:\semester 2\pap-03\fungsi.c
+	"header.h"
+
+1521543950 e:\semester 2\pap-03\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1521544554 source:e:\semester 2\pap-03\main.c
+	"header.h"
+
